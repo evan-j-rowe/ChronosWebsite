@@ -79,9 +79,9 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     
-    padding: 3mm;
+    padding: 9px;
     
-    margin-bottom: 7mm;
+    margin-bottom: 14px;
   }
   
   .rostertext {
@@ -89,7 +89,7 @@ body {
   }
   
   h3 {
-    padding-top: 1.5mm;
+    padding-top: 3px;
     margin-top: 0px;
     color: #725d92;
     font-size: 30px;
